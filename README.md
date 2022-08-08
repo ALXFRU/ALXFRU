@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My CV will appear here soon^)
+
 <!--
 **ALXFRU/ALXFRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
